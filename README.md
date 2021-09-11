@@ -1,4 +1,4 @@
-# Chess Engine
+# King's Chess - a simple chess engine as an Android App
 
 I am creating this chess engine to measure its accuracy against the Stockfish open source chess engine.
 
