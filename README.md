@@ -1,6 +1,6 @@
 # Chess Engine
 
-I am creating this chess engine to measure its accuracy over time playing on chess.com. 
+I am creating this chess engine to measure its accuracy against the Stockfish open source chess engine.
 
 ## Phase 1: Creating the board GUI on Android and adding basic chess rules
 - As a user, I would like to be able to see a chess board as an android application on a phone.
@@ -16,13 +16,15 @@ I am creating this chess engine to measure its accuracy over time playing on che
 - As a user, I would like to capture a pawn "en passant" or have my pawn captured "en passant."
 - As a user, I would like to be able to checkmate the opposing player and get checkmated if possible.
 - As a user, I would like to be able to draw a game by "insufficient material."
+- As a user, I would like to be able to draw a game by the "50 move rule."
 
 
 ## Phase 2: Adding the chess engine
+- As a user, I would like to be able to play against a chess computer.
 
 
 ## Appendix:
-Standard Chess Rules:
+Standard Chess Rules according to FIDE: https://www.fide.com/FIDE/handbook/LawsOfChess.pdf
 
 
 
